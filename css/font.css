@@ -1,0 +1,19 @@
+    @font-face {
+    	font-family: "Makinas-4-Flat";
+    	src: url(font/Makinas-4-Flat.otf);
+    }
+
+	@font-face {
+    	font-family: "Makinas-4-Square";
+    	src: url(font/Makinas-4-Square.otf);
+    }
+	
+	@font-face {
+    	font-family: "FGMediumHankaku";
+    	src: url(font/FGMediumHankaku.ttf);
+    }
+	
+	@font-face {
+    	font-family: "NotoSansJP-Medium";
+    	src: url(font/NotoSansJP-Medium.ttf);
+    }

@@ -1,0 +1,32 @@
+.sw2_normal {
+  text-align: left;
+  font-family: NotoSansJP-Medium;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
+
+.sw2_titleNormal {
+  font-family: Makinas-4-Square;
+  font-weight: bold;
+  text-align: center;
+}
+
+.sw2_pop {
+  background-color: #111;
+  border: 2px solid white;
+  color: white;
+  border-radius: 10px;
+
+}
+
+.sw2_button {
+  font-size: 1.2em;
+  margin-left: 1.2em;
+  margin-right: 1.2em;
+}
+
+.swal2-container {
+  touch-action: none;
+  overflow-y: hidden !important;
+  z-index: 10000 !important;
+}
